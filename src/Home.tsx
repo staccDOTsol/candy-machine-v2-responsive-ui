@@ -552,7 +552,7 @@ const Home = (props: HomeProps) => {
                     <Logo><a href="http://localhost:3000/" target="_blank" rel="noopener noreferrer"><img alt=""
                                                                                                           src="logo.png"/></a></Logo>
                     <Menu>
-                        <li><a href="https://subscriptionserviceasaservice.herokuapp.com/jare-subsription" target="_blank" rel="noopener noreferrer">Subscriptionz...</a>
+                        <li><a href="https://subscriptionserviceasaservice.herokuapp.com/new-test" target="_blank" rel="noopener noreferrer">Subscriptionz...</a>
                         </li></Menu>
                     <Wallet>
                         {wallet ?
@@ -567,7 +567,7 @@ const Home = (props: HomeProps) => {
                         <NFT elevation={3}>
                             <h2>Once you print your NFT head on over</h2>
                             <br/>
-                            <a href="https://subscriptionserviceasaservice.herokuapp.com/jare-subsription" target="_blank" rel="noopener noreferrer">Subscriptionz...</a>
+                            <a href="https://subscriptionserviceasaservice.herokuapp.com/new-test" target="_blank" rel="noopener noreferrer">Subscriptionz...</a>
                                                         <h4>to extend your subscriptions!</h4>
                             <br/>
                             <div><Price
